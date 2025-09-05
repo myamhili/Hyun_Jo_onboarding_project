@@ -13,7 +13,7 @@ I do now know yet! Hopefully, I will figure it out soon.
 
 ## How to test
 
-Explain how to use your project
+I do now know!
 
 ## External hardware
 
