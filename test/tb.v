@@ -25,7 +25,7 @@ module tb ();
 `ifdef GL_TEST
   wire VPWR = 1'b1;
   wire VGND = 1'b0;
-`endif// test
+`endif// test real
 
   // Replace tt_um_example with your module name:
   tt_um_uwasic_onboarding_Hyun_Jo user_project (
